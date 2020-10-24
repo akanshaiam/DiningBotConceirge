@@ -1,0 +1,4 @@
+You may need to install the following packages for the proper functioning of some lambda functions.
+1. requests
+2. elasticsearch
+3. requests_aws4auth
